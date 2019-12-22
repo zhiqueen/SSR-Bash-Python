@@ -86,7 +86,7 @@ footer = '''
     </div>
 	<footer class="footer">
 		<div class="container">
-			<p>Function Club</p>
+			<p>加速方案定制QQ:996091678</p>
 		</div>
 	</footer>
 
